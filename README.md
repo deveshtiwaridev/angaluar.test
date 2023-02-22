@@ -1,2 +1,2 @@
-# angaluar.test
+# angular.test
 Angular repo 
